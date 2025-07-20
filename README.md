@@ -1,1 +1,1 @@
-[![](https://raw.githubusercontent.com/rizkypurnamasidiq/rizkypurnamasidiq/main/intro.svg)](https://www.linkedin.com/in/rizky-purnama-sidiq/)
+[![](https://raw.githubusercontent.com/IkySidiq/IkySidiq/main/intro.svg)](https://www.linkedin.com/in/rizky-purnama-sidiq-77265521b/)
