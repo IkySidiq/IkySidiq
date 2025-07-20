@@ -323,13 +323,22 @@
   </g>
 
   <!-- Twitter -->
-  <g transform="translate(10, 192)" class="msg-4">
-    <rect width="530" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">
-      You can find me on Linkedin at
-      <a xlink:href="https://www.linkedin.com/in/rizky-purnama-sidiq-77265521b/">linkedin.com/in/Rizky Purnama Sidiq/</a>
+<g transform="translate(10, 192)" class="msg-4">
+  <rect width="530" height="42" rx="18.0355" class="bubble" />
+  
+  <!-- Bagian teks biasa -->
+  <text x="15" y="27" fill="black">
+    You can find me on LinkedIn at 
+  </text>
+  
+  <!-- Bagian nama yang bisa diklik -->
+  <a href="https://www.linkedin.com/in/rizky-purnama-sidiq-77265521b/" target="_blank">
+    <text x="250" y="27" fill="blue" text-decoration="underline">
+      Rizky Purnama Sidiq
     </text>
-  </g>
+  </a>
+</g>
+
 
   <!-- typing 5 -->
   <g transform="translate(10, 240)" class="typing-5">
